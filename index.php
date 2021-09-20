@@ -1,29 +1,29 @@
 <!DOCTYPE html>
 <html lang="en_US">
 <head>
-<title>DLHUT : Online All in One Video & Audio Downloader</title>
-<meta name="title" content="DLHUT : Online All in One Video & Audio Downloader">
-<meta name="description" content="DLHUT : Online All in One Video & Audio Downloader from YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
+<title>All in One Video & Audio Downloader</title>
+<meta name="title" content="All in One Video & Audio Downloader">
+<meta name="description" content="All in One Video & Audio Downloader from YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta name="keywords" content="Video,Audio, Downloader, Online, Videos, Facebook, Twitter, TikTok, MXTakatak, All-in-One,Online Downloader,AIO,">
 <meta name="robots" content="index, follow">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="en">
 <meta name="revisit-after" content="5 days">
-<meta name="author" content="TheOfficialVKr">
-<meta itemprop="name" content="DLHUT : Online All in One Video & Audio Downloader">
+<meta name="author" content="Shadow Ninja">
+<meta itemprop="name" content="All in One Video & Audio Downloader">
 <meta itemprop="description" content="Online All in One Video & Audio Downloader from YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta itemprop="image" content="/img/logo.png">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="DLHUT : Online All in One Video & Audio Downloader">
+<meta name="twitter:title" content="All in One Video & Audio Downloader">
 <meta name="twitter:description" content="Online All in One Video & Audio Downloader from YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
-<meta name="twitter:site" content="theofficialvkr">
-<meta name="twitter:creator" content="itsmethevkr">
+<meta name="twitter:site" content="sagaryg007">
+<meta name="twitter:creator" content="sagaryg007">
 <meta name="twitter:image:src" content="/img/logo.png">
-<meta property="og:title" content="DLHUT : Online All in One Video & Audio Downloader">
+<meta property="og:title" content="All in One Video & Audio Downloader">
 <meta property="og:description" content="Online All in One Video & Audio Downloader from YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta property="og:image" content="/img/logo.png">
 <meta property="og:url" content="/">
-<meta property="og:site_name" content="DLHUT : Online All in One Video & Audio Downloader">
+<meta property="og:site_name" content="All in One Video & Audio Downloader">
 <meta property="fb:app_id" content="427710135379286">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
@@ -75,9 +75,9 @@
 </style>
 </head>
 <body class="bg-light">
-<div class="text-center p-5">
-<a href="/">  <img alt="DLhut" src="/img/logo.png" width="200px" height="90px"></a>
-</div>
+
+
+
 <div class="text-center">
    <h2> Paste a video url or name below and press "Download". </h2><br>for Instagram story search Like //ig: Username<br>
 <form action="/sf.php" method="GET" class="mt-2">
